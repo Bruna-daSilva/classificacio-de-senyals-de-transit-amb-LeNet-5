@@ -1,0 +1,43 @@
+0, Límit de velocitat (20 Km/h)
+1, Límit de velocitat (30 Km/h)
+2, Límit de velocitat (50 Km/h)
+3, Límit de velocitat (60 Km/h)
+4, Límit de velocitat (70 Km/h)
+5, Límit de velocitat (80 Km/h)
+6, Fi del límit de velocitat (80 Km/h)
+7, Límit de velocitat (100 Km/h)
+8, Límit de velocitat (120 Km/h)
+9, Prohibit avançar
+10, Prohibit avançar per camions
+11, Intersecció amb prioritat
+12, Calçada amb prioritat
+13, Cediu el pas
+14, Stop
+15, Circulació prohibida
+16, Entrada prohibida a camions
+17, Entrada prohibida
+18, Perill
+19, Revolt perillós a l’esquerra
+20, Revolt perillós a la dreta
+21, Revolts perillosos a l’esquerra
+22, Perfil irregular
+23, Paviment lliscant
+24, Estretall de la calçada per la dreta
+25, Obres
+26, Semàfors
+27, Vianants
+28, Infants
+29, Ciclistes
+30, Paviment lliscant per gel o neu
+31, Animals en llibertat
+32, Fi de prohibicions
+33, Sentit obligatori (dreta)
+34, Sentit obligatori (esquerra)
+35, Sentit obligatori (endavant)
+36, Úniques direccions i sentits permesos (dreta)
+37, Úniques direccions i sentits permesos (esquerra)
+38, Pas obligatori (dreta)
+39, Pas obligatori (esquerra)
+40, Intersecció giratòria obligatòria
+41, Fi de la prohibició d’avançament
+42, Fi de la prohibició d’avançament per a camions
